@@ -1,1 +1,6 @@
 # How do you create a copy of "foo.txt" named "baz.txt"?
+cp foo.txt baz.txt
+
+
+
+
